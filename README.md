@@ -92,6 +92,7 @@ webTrigger/
 
 ## Scripts
 
+
 - `npm start` - Start the tracking server on port 3000
 
 ## License
